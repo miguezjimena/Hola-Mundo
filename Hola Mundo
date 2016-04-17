@@ -1,0 +1,12 @@
+/*  Suma
+K1051 Jimena Míguez
+17/04/2016
+*/
+
+#include <iostream>
+
+int main () {
+	
+	std::cout << "Hello, word\n";
+	
+}
